@@ -1,0 +1,32 @@
+h1{
+    color: chartreuse;
+}
+
+h2{
+    color: blueviolet;
+}
+
+h1,h2,h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+
+#para1{
+    color: brown;
+    font-size: medium;
+    font-family: sans-serif;
+    border: 1px solid black;
+}
+
+
+
+.fruits{
+    color: green;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid red;
+    border-radius: 10px;
+
+} 
